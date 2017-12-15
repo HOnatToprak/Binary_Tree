@@ -1,4 +1,3 @@
-//Hasan Onat TOPRAK -- 2015555063 Merve ÇALIÞ -- 2016555021
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
